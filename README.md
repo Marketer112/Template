@@ -22,6 +22,18 @@ Hello Header
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
+<br />
+<div align="center">
+  <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web">
+    <img src="=Source/Assets/MGEcommerce.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">MG Ecommerce</h3>
+
+  <p align="center">
+
+
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
