@@ -9,12 +9,7 @@ Contributers :
     https://github.com/TapanPadaliya
 -->
 
-<style>
-.h1{
-    background-color:red;
-    color:white;
-}
-</style>
-<h1>
+<h1 style="background-color:red;
+    color:white;">
 Hello Header
 </h1>
