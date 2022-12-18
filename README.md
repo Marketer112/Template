@@ -47,6 +47,7 @@
 
 * [![React][Python.org]][Python-url]
 * [![React][HTML.org]][HTML-url]
+* [![React][CSS.org]][CSS-url]
 
  <h4 align="left">About : This Web Application is Used to manage Educational Records and Manage Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb/blob/master/Presentation.pdf">🔗 View</a></h4>
@@ -76,7 +77,9 @@
 [HTML.shield]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=orange
 [HTML-url]: https://www.html.org/
 [HTML.org]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=orange
-
+[CSS.shield]: https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=#264de4
+[CSS-url]: https://www.css.org/
+[CSS.org]: https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=#264de4
 
 
 [Python-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
