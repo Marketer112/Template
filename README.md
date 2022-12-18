@@ -44,7 +44,7 @@
 </div>
 
 <h4 align="left">Technologies Used : </h4>
-* [![React][Python.com]][Python-url]
+
 * [![React][Python.org]][Python-url]
 
 
@@ -68,7 +68,7 @@
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-[Python.shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[Python.shield]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
