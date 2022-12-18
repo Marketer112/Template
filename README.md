@@ -23,7 +23,7 @@ Contributers :
   <h3 align="center">MG Ecommerce</h3>
     
   <h4 align="left">About : </h4>
-  <h4 align="left">Document : </h4>
+  <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web/blob/main/MG%20Presentation.pdf">Click Here To Redirect</a></h4>
   <h4 align="left">Repository : <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web">Click Here To Redirect</a></h4>
     
 
