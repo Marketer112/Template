@@ -53,3 +53,8 @@ Contributers :
  <h4 align="left">About : This Web Application is Used to manage Educational Records and Manage Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb/blob/master/Presentation.pdf">🔗 View</a></h4>
   <h4 align="left">Repository : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb">🔗 Repository</a></h4>
+  
+  
+  <p align="right"><a href="#readme-top">
+    <img src="Source/Assets/ArrowUp.png" alt="Logo" width="80" height="80">
+  </a></p>
