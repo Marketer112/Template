@@ -46,14 +46,7 @@
 <h4 align="left">Technologies Used : </h4>
 
 * [![React][Python.org]][Python-url]
-[Python.shield]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
-[Python-url]: https://www.python.org/
-[Python.org]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
-
 * [![React][HTML.org]][HTML-url]
-[HTML.shield]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=orange
-[HTML-url]: https://www.html.org/
-[HTML.org]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=orange
 
  <h4 align="left">About : This Web Application is Used to manage Educational Records and Manage Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb/blob/master/Presentation.pdf">🔗 View</a></h4>
@@ -74,6 +67,16 @@
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+
+
+
+[Python.shield]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
+[Python-url]: https://www.python.org/
+[Python.org]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
+[HTML.shield]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=orange
+[HTML-url]: https://www.html.org/
+[HTML.org]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=orange
+
 
 
 [Python-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
