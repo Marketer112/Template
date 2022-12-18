@@ -40,3 +40,15 @@ Contributers :
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web/blob/main/MG%20Presentation.pdf">🔗 View</a></h4>
   <h4 align="left">Repository : <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web">🔗 Repository</a></h4>
 
+    ## Project 3
+    
+<div align="center">
+  <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb">
+    <img src="Source/Assets/SmartSankul.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Smart Sankul</h3>
+    
+ <h4 align="left">About : This Web Application is Used to manage Educational Records and Manage Things.</h4>
+  <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb/blob/master/Presentation.pdf">🔗 View</a></h4>
+  <h4 align="left">Repository : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb">🔗 Repository</a></h4>
