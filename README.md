@@ -39,11 +39,10 @@
 
 <h4 align="left">Technologies Used : </h4>
 
-[![React][DJ.org]][DJ-url]
-[![React][Python.org]][Python-url]
-[![React][HTML.org]][HTML-url]
-[![React][CSS.org]][CSS-url]
-[![React][JS.org]][JS-url]
+[![React][MONGO.org]][MONGO-url]
+[![React][EXP.org]][EXP-url]
+[![React][React.js]][React-url]
+[![React][NODE.org]][NODE-url]
 
  <h4 align="left">About : This Web Application is Used to manage E commerce Records and Manage Business Commerce Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web/blob/main/MG%20Presentation.pdf">🔗 View</a></h4>
@@ -98,9 +97,9 @@
 [MONGO-url]: https://www.mongodb.com/
 [MONGO.org]: https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=green
 
-[NODE.shield]: https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=ffffff
+[NODE.shield]: https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=green
 [NODE-url]: https://nodejs.org/en/
-[NODE.org]: https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=ffffff
+[NODE.org]: https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=green
 
 [EXP.shield]: https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=E&logoColor=black
 [EXP-url]: https://expressjs.com/
