@@ -45,11 +45,11 @@
 
 <h4 align="left">Technologies Used : </h4>
 
-* [![React][DJ.org]][DJ-url]
-* [![React][Python.org]][Python-url]
-* [![React][HTML.org]][HTML-url]
-* [![React][CSS.org]][CSS-url]
-* [![React][JS.org]][JS-url]
+[![React][DJ.org]][DJ-url]
+[![React][Python.org]][Python-url]
+[![React][HTML.org]][HTML-url]
+[![React][CSS.org]][CSS-url]
+[![React][JS.org]][JS-url]
 
  <h4 align="left">About : This Web Application is Used to manage Educational Records and Manage Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb/blob/master/Presentation.pdf">🔗 View</a></h4>
