@@ -13,6 +13,14 @@
 
   <h3 align="center">MG Ecommerce</h3>
 </div>
+
+<h4 align="left">Technologies Used : </h4>
+
+[![React][MONGO.org]][MONGO-url]
+[![React][EXP.org]][EXP-url]
+[![React][React.org]][React-url]
+[![React][NODE.org]][NODE-url]
+
  <h4 align="left">About : This Web Application is Used to manage E commerce Records and Manage Business Commerce Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web/blob/main/MG%20Presentation.pdf">🔗 View</a></h4>
   <h4 align="left">Repository : <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web">🔗 Repository</a></h4>
@@ -28,6 +36,15 @@
 
   <h3 align="center">E-buy Antiques</h3>
 </div>
+
+<h4 align="left">Technologies Used : </h4>
+
+[![React][DJ.org]][DJ-url]
+[![React][Python.org]][Python-url]
+[![React][HTML.org]][HTML-url]
+[![React][CSS.org]][CSS-url]
+[![React][JS.org]][JS-url]
+
  <h4 align="left">About : This Web Application is Used to manage E commerce Records and Manage Business Commerce Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web/blob/main/MG%20Presentation.pdf">🔗 View</a></h4>
   <h4 align="left">Repository : <a href="https://github.com/TapanPadaliya/E-Buy_Antiques_ASP.netWeb">🔗 Repository</a></h4>
@@ -44,13 +61,13 @@
 </div>
 
 <h4 align="left">Technologies Used : </h4>
-<center>
+
 [![React][DJ.org]][DJ-url]
 [![React][Python.org]][Python-url]
 [![React][HTML.org]][HTML-url]
 [![React][CSS.org]][CSS-url]
 [![React][JS.org]][JS-url]
-</center>
+
  <h4 align="left">About : This Web Application is Used to manage Educational Records and Manage Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb/blob/master/Presentation.pdf">🔗 View</a></h4>
   <h4 align="left">Repository : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb">🔗 Repository</a></h4>
@@ -61,7 +78,7 @@
   </a></p>
 
 
-
+<!--
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -70,12 +87,24 @@
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-
+-->
 
 
 [Python.shield]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://www.python.org/
 [Python.org]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
+
+[MONGO.shield]: https://img.shields.io/badge/-MongoDB-71,162,72?style=flat&logo=MongoDB&logoColor=black
+[MONGO-url]: https://www.mongodb.com/
+[MONGO.org]: https://img.shields.io/badge/-MongoDB-71,162,72?style=flat&logo=MongoDB&logoColor=black
+
+[NODE.shield]: https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff
+[NODE-url]: https://nodejs.org/en/
+[NODE.org]: https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff
+
+[EXP.shield]: https://img.shields.io/badge/Express-71,162,72?style=flat&logo=E&logoColor=black
+[EXP-url]: https://expressjs.com/
+[EXP.org]: https://img.shields.io/badge/Express-71,162,72?style=flat&logo=E&logoColor=black
 
 [HTML.shield]: https://img.shields.io/badge/HTML-5-e96228?style=for-the-badge&logo=HTML5
 [HTML-url]: https://www.html.org/
