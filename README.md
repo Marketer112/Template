@@ -51,7 +51,8 @@ Contributers :
 
   <h3 align="center">Smart Sankul</h3>
 
-<h4 align="left">Technologies Used : </h4> [![Forks][forks-shield]][forks-url] 
+<h4 align="left">Technologies Used : </h4> * [![React][React.js]][React-url]
+
  <h4 align="left">About : This Web Application is Used to manage Educational Records and Manage Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb/blob/master/Presentation.pdf">🔗 View</a></h4>
   <h4 align="left">Repository : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb">🔗 Repository</a></h4>
@@ -62,5 +63,11 @@ Contributers :
   </a></p>
 
     
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://reactjs.org/
+    ## Acknowledgments
+* [Img Shields](https://shields.io)
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+    
+    
+
