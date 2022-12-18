@@ -45,9 +45,11 @@
 
 <h4 align="left">Technologies Used : </h4>
 
+* [![React][DJ.org]][DJ-url]
 * [![React][Python.org]][Python-url]
 * [![React][HTML.org]][HTML-url]
 * [![React][CSS.org]][CSS-url]
+* [![React][JS.org]][JS-url]
 
  <h4 align="left">About : This Web Application is Used to manage Educational Records and Manage Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb/blob/master/Presentation.pdf">🔗 View</a></h4>
@@ -74,13 +76,22 @@
 [Python.shield]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://www.python.org/
 [Python.org]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
+
 [HTML.shield]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=orange
 [HTML-url]: https://www.html.org/
 [HTML.org]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=orange
+
 [CSS.shield]: https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=#264de4
 [CSS-url]: https://www.css.org/
 [CSS.org]: https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=#264de4
 
+[JS.shield]: https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=#264de4
+[JS-url]: https://javascript.info/
+[JS.org]: https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=#264de4
+
+[DJ.shield]: https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=blue
+[DJ-url]: https://www.djangoproject.com/
+[DJ.org]: https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=blue
 
 [Python-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
