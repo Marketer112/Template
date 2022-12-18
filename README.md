@@ -44,13 +44,13 @@
 </div>
 
 <h4 align="left">Technologies Used : </h4>
-
+<center>
 [![React][DJ.org]][DJ-url]
 [![React][Python.org]][Python-url]
 [![React][HTML.org]][HTML-url]
 [![React][CSS.org]][CSS-url]
 [![React][JS.org]][JS-url]
-
+</center>
  <h4 align="left">About : This Web Application is Used to manage Educational Records and Manage Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb/blob/master/Presentation.pdf">🔗 View</a></h4>
   <h4 align="left">Repository : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb">🔗 Repository</a></h4>
@@ -77,17 +77,17 @@
 [Python-url]: https://www.python.org/
 [Python.org]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
 
-[HTML.shield]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=orange
+[HTML.shield]: https://img.shields.io/badge/HTML-5-e96228?style=for-the-badge&logo=HTML5
 [HTML-url]: https://www.html.org/
-[HTML.org]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=orange
+[HTML.org]: https://img.shields.io/badge/HTML-5-e96228?style=for-the-badge&logo=HTML5
 
 [CSS.shield]: https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=#264de4
 [CSS-url]: https://www.css.org/
 [CSS.org]: https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=#264de4
 
-[JS.shield]: https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=#264de4
+[JS.shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white
 [JS-url]: https://javascript.info/
-[JS.org]: https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=#264de4
+[JS.org]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white  
 
 [DJ.shield]: https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=blue
 [DJ-url]: https://www.djangoproject.com/
