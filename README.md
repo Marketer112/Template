@@ -12,7 +12,7 @@ Contributers :
     color:white;">Tapan Padaliya
 </h1>
 
-# Project 1
+## Project 1
 <br>
 <div align="center">
   <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web">
