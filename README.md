@@ -57,5 +57,5 @@ Contributers :
   
   
   <p align="right"><a href="#readme-top">
-    <img src="Source/Assets/ArrowUp.png" alt="Logo" width="60" height="60">
+    <img src="Source/Assets/ArrowUp.png" alt="Logo" width="60" height="35">
   </a></p>
