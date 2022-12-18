@@ -94,29 +94,29 @@
 [Python-url]: https://www.python.org/
 [Python.org]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
 
-[MONGO.shield]: https://img.shields.io/badge/-MongoDB-71,162,72?style=flat&logo=MongoDB&logoColor=black
+[MONGO.shield]: https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=black
 [MONGO-url]: https://www.mongodb.com/
-[MONGO.org]: https://img.shields.io/badge/-MongoDB-71,162,72?style=flat&logo=MongoDB&logoColor=black
+[MONGO.org]: https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=black
 
-[NODE.shield]: https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff
+[NODE.shield]: https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=ffffff
 [NODE-url]: https://nodejs.org/en/
-[NODE.org]: https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff
+[NODE.org]: https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=ffffff
 
-[EXP.shield]: https://img.shields.io/badge/Express-71,162,72?style=flat&logo=E&logoColor=black
+[EXP.shield]: https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=E&logoColor=black
 [EXP-url]: https://expressjs.com/
-[EXP.org]: https://img.shields.io/badge/Express-71,162,72?style=flat&logo=E&logoColor=black
+[EXP.org]: https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo==E&logoColor=black
 
-[HTML.shield]: https://img.shields.io/badge/HTML-5-e96228?style=for-the-badge&logo=HTML5
+[HTML.shield]: https://img.shields.io/badge/HTML-5-20232A?style=for-the-badge&logo=HTML5
 [HTML-url]: https://www.html.org/
-[HTML.org]: https://img.shields.io/badge/HTML-5-e96228?style=for-the-badge&logo=HTML5
+[HTML.org]: https://img.shields.io/badge/HTML-5-20232A?style=for-the-badge&logo=HTML5
 
-[CSS.shield]: https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=#264de4
+[CSS.shield]: https://img.shields.io/badge/css-3-20232A?style=for-the-badge&logo=css&logoColor=#264de4
 [CSS-url]: https://www.css.org/
-[CSS.org]: https://img.shields.io/badge/css-20232A?style=for-the-badge&logo=css&logoColor=#264de4
+[CSS.org]: https://img.shields.io/badge/css-3-20232A?style=for-the-badge&logo=css&logoColor=#264de4
 
-[JS.shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white
+[JS.shield]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=white
 [JS-url]: https://javascript.info/
-[JS.org]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white  
+[JS.org]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=white  
 
 [DJ.shield]: https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=blue
 [DJ-url]: https://www.djangoproject.com/
