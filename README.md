@@ -18,7 +18,7 @@
 
 [![React][MONGO.org]][MONGO-url]
 [![React][EXP.org]][EXP-url]
-[![React][React.org]][React-url]
+[![React][React.js]][React-url]
 [![React][NODE.org]][NODE-url]
 
  <h4 align="left">About : This Web Application is Used to manage E commerce Records and Manage Business Commerce Things.</h4>
@@ -94,9 +94,9 @@
 [Python-url]: https://www.python.org/
 [Python.org]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
 
-[MONGO.shield]: https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=black
+[MONGO.shield]: https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=green
 [MONGO-url]: https://www.mongodb.com/
-[MONGO.org]: https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=black
+[MONGO.org]: https://img.shields.io/badge/-MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=green
 
 [NODE.shield]: https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=ffffff
 [NODE-url]: https://nodejs.org/en/
