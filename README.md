@@ -21,6 +21,8 @@ Contributers :
   </a>
 
   <h3 align="center">MG Ecommerce</h3>
+    
+  <h4 align="left">About : </h4>
+    
 
-  <p align="center">
 
