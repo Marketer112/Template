@@ -46,7 +46,14 @@
 <h4 align="left">Technologies Used : </h4>
 
 * [![React][Python.org]][Python-url]
+[Python.shield]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
+[Python-url]: https://www.python.org/
+[Python.org]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
 
+* [![React][HTML.org]][HTML-url]
+[HTML.shield]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=orange
+[HTML-url]: https://www.html.org/
+[HTML.org]: https://img.shields.io/badge/html-20232A?style=for-the-badge&logo=html&logoColor=orange
 
  <h4 align="left">About : This Web Application is Used to manage Educational Records and Manage Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb/blob/master/Presentation.pdf">🔗 View</a></h4>
@@ -68,7 +75,7 @@
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-[Python.shield]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=yellow
+
 [Python-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
@@ -88,7 +95,7 @@
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 
-[Python-url]: https://www.python.org/
+
 
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
