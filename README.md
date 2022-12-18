@@ -44,9 +44,8 @@
 </div>
 
 <h4 align="left">Technologies Used : </h4>
-<div align="center">
+
 * [![React][React.js]][React-url]
-</div>
 
  <h4 align="left">About : This Web Application is Used to manage Educational Records and Manage Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb/blob/master/Presentation.pdf">🔗 View</a></h4>
@@ -59,7 +58,7 @@
 
     
     
-    
+* [![React][React.js]][React-url]   
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 
