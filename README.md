@@ -51,7 +51,7 @@ Contributers :
 
   <h3 align="center">Smart Sankul</h3>
 
-<h4 align="left">Technologies Used : </h4> * [![Next][Next.js]][Next-url] 
+<h4 align="left">Technologies Used : </h4> [![Forks][forks-shield]][forks-url] 
  <h4 align="left">About : This Web Application is Used to manage Educational Records and Manage Things.</h4>
   <h4 align="left">Document : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb/blob/master/Presentation.pdf">🔗 View</a></h4>
   <h4 align="left">Repository : <a href="https://github.com/TapanPadaliya/Smart_Sankul_DjangoWeb">🔗 Repository</a></h4>
@@ -61,5 +61,4 @@ Contributers :
     <img src="Source/Assets/ArrowUp.png" alt="Logo" width="60" height="35">
   </a></p>
     
-    [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
+  
