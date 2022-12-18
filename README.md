@@ -28,8 +28,8 @@ Contributers :
     
     <hr>
     
-    <h3 align="left">#1 Project</h3>
-<br />
+## Project 2
+    <br />
 <div align="center">
   <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web">
     <img src="Source/Assets/MGEcommerce.png" alt="Logo" width="80" height="80">
