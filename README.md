@@ -25,7 +25,7 @@ Hello Header
 <br />
 <div align="center">
   <a href="https://github.com/TapanPadaliya/MG_Ecommerce_MERN_Web">
-    <img src="=[/Source/Assets/MGEcommerce.png](https://cdn-icons-png.flaticon.com/512/4402/4402512.png)" alt="Logo" width="80" height="80">
+    <img src="main/Source/Assets/ArrowUp.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">MG Ecommerce</h3>
